@@ -1,9 +1,9 @@
 # There are documentation of my idea as above.
 
-Swift nowhow
+Swift knowhow
 
-Ubuntu nowhow
+Ubuntu knowhow
 
-Iot nowhow
+Iot knowhow
 
 
